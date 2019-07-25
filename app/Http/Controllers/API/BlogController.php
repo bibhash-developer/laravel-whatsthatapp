@@ -120,7 +120,7 @@ class BlogController extends Controller
      */
     public function show($id)
     {
-        //
+        //222222222222222222222222222@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     }
 
     /**
